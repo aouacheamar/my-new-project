@@ -6,11 +6,11 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 Final project for the Building AI course
 
-## Summary
-
+## Calories in food application
+I present an existing system for detecting dishes and estimating calories # The app can estimate calories after detecting dishes from the video stream captured from the device's built-in camera # I made the proposed idea to detect objects in real time # Suggest multitasking such as simultaneous estimation of food and calories
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
-
+Learn about healthy foods and know the nutritional value of foods
+Delivering the nutritional culture curriculum and obtaining the highest levels of physical fitness
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
